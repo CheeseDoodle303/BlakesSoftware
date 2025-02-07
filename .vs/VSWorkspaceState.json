@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlazorSoftware\\bin",
+    "\\BlazorSoftware\\obj"
   ],
-  "SelectedNode": "\\C:\\Users\\justi\\Source\\Repos\\BlakesSoftware2",
   "PreviewInSolutionExplorer": false
 }
